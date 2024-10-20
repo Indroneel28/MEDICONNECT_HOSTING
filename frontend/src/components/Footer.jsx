@@ -66,15 +66,15 @@ const Footer = () => {
             <h4>Contact</h4>
             <div>
               <FaPhone />
-              <span>7567839923</span>
+              <span>12345678</span>
             </div>
             <div>
               <MdEmail />
-              <span>mediConnect@gmail.com</span>
+              <span>mediconnect@gmail.com</span>
             </div>
             <div>
               <FaLocationArrow />
-              <span>Bbsr Odisha,India</span>
+              <span>Bhubaneswar, Odisha, India</span>
             </div>
             <ul>
               <Link to={"/developers"}>Developers</Link>
